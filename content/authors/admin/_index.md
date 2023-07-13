@@ -36,7 +36,7 @@ education:
   courses:
     - course: MA in Political Science
       institution: McGill University
-      year: 2025
+      # year: 2025
     - course: BA (Hons.) Political Science
       institution: Wilfrid Laurier University
       year: 2023
@@ -57,7 +57,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=LBugxqgAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/rafceegee
@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a political science masters student at <a href="https://www.mcgill.ca/politicalscience/">McGill University</a>. My research interests are the fields of electoral behavior, political pyschology, and democratization. I am a member of the Centre for the Study of Democractic Citizenship <a href="https://csdc-cecd.ca">(CSDC)</a>. I am orginially from Waterloo, ON and completed my undergraduate work at <a href="https://students.wlu.ca/programs/arts/political-science/index.html">Wilfrid Laurier University</a>.
+I am a Masters student in political science at <a href="https://www.mcgill.ca/politicalscience/">McGill University</a>. My research interests are in the fields of electoral behavior, political pyschology, and democratization. I am a member of the Centre for the Study of Democractic Citizenship <a href="https://csdc-cecd.ca">(CSDC)</a>. I am orginially from Waterloo, ON and completed my undergraduate work at <a href="https://students.wlu.ca/programs/arts/political-science/index.html">Wilfrid Laurier University</a>.
 {style="text-align: justify;"}
