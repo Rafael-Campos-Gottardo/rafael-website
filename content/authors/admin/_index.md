@@ -69,7 +69,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: cv/resume.pdf
+    link: "static/upload/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
