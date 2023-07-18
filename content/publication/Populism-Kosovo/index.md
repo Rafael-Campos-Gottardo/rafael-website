@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.ujpps.com/index.php/ujpps/issue/view/7/Issue%205'
+url_pdf: "https://www.ujpps.com/index.php/ujpps/issue/view/7/Issue%205"
 url_code: ''
 url_dataset: ''
 url_poster: ''
