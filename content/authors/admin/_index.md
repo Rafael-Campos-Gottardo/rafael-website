@@ -22,7 +22,7 @@ organizations:
     url: https://www.mcgill.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include democracy, authoritarianism, and elections.
+bio: My research interests include democracy, political pyschology, and elections.
 
 # Interests to show in About widget
 interests:
