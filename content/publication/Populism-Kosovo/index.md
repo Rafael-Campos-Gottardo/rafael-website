@@ -31,7 +31,7 @@ publication_short: In *UJPPS*
 abstract: This paper examines Lëvizja VETËVENDOSJE’s (LVV) support in Kosovo using a populist lens. Traditionally, scholars argue that support for LVV’s populist rhetoric is due to ethnic nationalist factors. An additional explanation for the LVV’s success is the inclusion of inequality in Kosovo in LVV’s populist discourses and their division of society. Once the LVV included Kosovo’s inequalities in their populist discourses they were able to achieve electoral success. The LVV and their leader Albin Kurti divide Kosovo’s society into three groups through their discourse. These groups include the pure Albanian Kosovars, the corrupt international and local Albanian elite, and the corrupt Serbian government. The corrupt international elite force the local elite to support a dialogue with Serbia, drawing the elite’s attention away from inequality in Kosovo. Through their populist discourses, Albin Kurti and the LVV attempts to reshape political rhetoric in Kosovo to focus on issues of inequality and corruption.
 
 # Summary. An optional shortened abstract.
-summary: This paper argues that through their populist discourses, Albin Kurti and the LVV attempts to reshape political rhetoric in Kosovo to focus on issues of inequality and corruption.
+summary: This paper argues that through their populist discourses, Albin Kurti and the LVV are attempting to reshape political rhetoric in Kosovo to focus on issues of inequality and corruption.
 
 tags: []
 
